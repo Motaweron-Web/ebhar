@@ -6767,4 +6767,13 @@ blockquote p,
   color: #fff;
   border-color: #EF4F59;
 }
+
+.topImage img {
+  height: 200px;
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  padding: 10px;
+  margin-bottom: 30px;
+}
 /*# sourceMappingURL=style.css.map */
